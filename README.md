@@ -1,3 +1,18 @@
+> ## Contribuições para o projeto
+> * Adicionado o campo limite para a conta corrente
+> * Implementadas validações para as operações sacar e transferir para que seja verificado o saldo
+> * Tratado o método depositar para determinar se e qual quanto do depósito deve ir para o limite e quanto deve ir para o saldo.
+
+
+
+---
+#### Apoena Jorge
+[linkedin](www.linkedin.com/in/apoena-avelar-53641357)   
+[github](https://github.com/ApoenaAvelar)  
+[email: apoenajorge@gmail.com](mailto:apoenajorge@gmail.com)  
+
+---
+
 # Criando um Banco Digital com Java e Orientação a Objetos
 
 ## 02/08/2021 - [Mentoria #1: Tire Suas Dúvidas Sobre Orientação a Objetos](https://www.youtube.com/watch?v=YS6ouOhkyNI)
